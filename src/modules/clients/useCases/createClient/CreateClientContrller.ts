@@ -4,7 +4,7 @@ import { CreateClientUseCase } from "./CreateClientUseCase";
 
 export class CreateClientController {
 
-  async handle(request: Request, response: Response){
+  async handle(request: Request, response: Response): Promise<Response>{
 
     const { username, password } = request.body
 

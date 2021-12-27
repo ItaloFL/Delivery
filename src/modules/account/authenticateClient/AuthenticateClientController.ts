@@ -4,7 +4,7 @@ import { AuthenticateClientUseCase } from "./AuthenticateClientUseCase";
 
 export class AuthenticateClientController {
 
-  async handle(request: Request, response: Response){
+  async handle(request: Request, response: Response): Promise<Response>{
   
     const { username, password } = request.body
 

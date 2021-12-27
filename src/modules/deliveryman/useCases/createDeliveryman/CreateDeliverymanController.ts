@@ -4,7 +4,7 @@ import { CreateDeliverymanUseCase } from "./CreateDeliverymanUseCase";
 
 export class CreateDeliverymanController {
 
-  async handle(request: Request, response: Response){
+  async handle(request: Request, response: Response):Promise<Response>{
     
     const { username, password } = request.body
 
