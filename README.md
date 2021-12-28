@@ -1,6 +1,3 @@
-#### Switch to english: <kbd>[<img title="English" alt="English" src="./img/eua.jpg" width="22">](translation/english/README.en.md)</kbd>
-
-
 # 🔎 Indice 
 
 - [Sobre o Projeto](#-sobre-o-projeto)
