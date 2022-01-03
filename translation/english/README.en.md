@@ -7,7 +7,7 @@
 ----
 # 📜 About the project
 
-O projeto foi feito de um novo modulo do Ignite de Nodejs da Rockeatseat, e se trata de uma api de Entregas, onde há usuarios e entregadores, onde um usuario pode pedir um item e o entregador pegar e entrega-lo.
+The project was made from a new module of Rockeatseat's Ignite de Nodejs, and it's about a Delivery api, where there are users and deliverers, where a user can order an item and the delivery person picks it up and delivers it.
 
 ---
 
